@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on AGASTINAL<br>👯 I'm looking to collaborate on Behen Lang which I am working with Coolstormaction<br>🤝 I'm looking for help with Mystic(A programming language)<br>🌱 I'm currently learning C, Java<br>🗨️ Ask me about Python<br>⚡ Fun fact: I play the violin
+🔭 I'm currently working on AGASTINAL<br>👯 I'm looking to collaborate on Behen Lang which I am working with [Coolstormaction](https://github.com/Coolstormaction)<br>🤝 I'm looking for help with Mystic(A programming language)<br>🌱 I'm currently learning C, Java<br>🗨️ Ask me about Python<br>⚡ Fun fact: I play the violin
 
 
 ## 🌐 Socials:
