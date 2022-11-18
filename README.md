@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C, Java**
 
-- 👯 I’m looking to collaborate on [Behen Lang](https://github.com/RathoreAgastya/Behen-lang-console)
+- 👯 I’m looking to collaborate on [Behen Lang](https://github.com/RathoreAgastya/Behen-lang-console) which I am working on with [Coolstormaction](https://github.com/Coolstormaction)
 
 - 🤝 I’m looking for help with [AGASTINAL](https://github.com/RathoreAgastya/terminal-in-python)
 
